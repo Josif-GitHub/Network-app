@@ -46,47 +46,40 @@ The audience of the website will be targeted towards inhabitants who lives in th
 
 <center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-footer.png" alt="Footer"></center>
 
-- __Home__
+- __Home Page__
 
   - The Home page will provide the user with supporting content to see the latest and most relevant news or information that the network of Lyftet i Lövgärdet focuses on spreading to the community at the moment. 
   - This section is valuable to the user as they will be able to easily receive relevant information without searching for it. 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/" alt=""></center>
+<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-home-page.png" alt="Home Page"></center>
 
-
-<!-- My own markdown -->
-- __Activities / Events__
+- __Activities / Events Page__
 
   - The Activities / Events page will provide the user with supporting cards to see what the outcome of Lyftet i Lövgärdet's activities look like with the addition of short descriptions. 
   - This section is valuable to the user as they will be able to easily identify the types of events the network puts together. 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/" alt=""></center>
+<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-activities-events-page.png" alt="Activities-Events Page"></center>
 
-<!-- My own markdown -->
-- __Gallery__
+- __Gallery Page__
 
   - The Gallery page will provide the user with supporting images to see what the outcome of Lyftet i Lövgärdet's activities look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the network puts together. 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/" alt=""></center>
+<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-gallery-page.png" alt="Gallery Page"></center>
 
-<!-- My own markdown -->
-- __Partners__
+- __Partners Page__
 
   - The Partners page will provide the user with supporting brands of the members of the network to have an understanding of who Lyftet i Lövgärdet consists of. 
-  - This section is valuable to the user as they will be able to easily identify the members of the network. 
+  - This section is valuable to the user as they will be able to easily identify the members of the network. Since I don't have access to their brands logo, I have random images instead to showcase the functionality.
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/" alt=""></center>
+<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-partners-page.png" alt="Partners Page"></center>
 
-<!-- My own markdown -->
 - __The Contact Page__
 
-  - This page will allow the user to get signed up to Lyftet i Lövgärdet to start their participation with the community and / or at least joining the activities. The user will be able to specify if they would like to take part in participation of the network or only in the activities offered. The user will be asked to submit their personal information. 
+  - This page will allow the user to get signed up to Lyftet i Lövgärdet to start their participation with the community and / or at least joining the activities. The user will be able to specify if they would like to take part in participation of the network or only in the activities offered. The user will be asked to submit their personal information and to read and confirm/agree upon the terms & conditions of the network, which will be presented with a modal. 
   - This section is valuable to the user as they will be able to easily take contact with the network for future collaboration. 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/" alt=""></center>
-
-
+<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-contact-page.png" alt="The Contact Page"></center>
 
 <!-- Edit -->
 For some / all of your features, you may choose to reference the specific project files that implement them.
