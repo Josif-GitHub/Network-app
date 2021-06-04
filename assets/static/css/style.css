@@ -6,10 +6,35 @@
     border:0;
  }
 
+
+/* ----------Header - Navbar - Overrides */
+
+.text-success:hover {
+    color: rgb(29, 123, 50);
+}
+
+.navbar-toggler {
+    border: 1px solid;    
+    border-color: #28a745!important;
+}
+
+.navbar-toggler:hover {  
+    border-color: #1d7b32!important;
+}
+
+
 /* ----------General pages */
 
 section {
     min-height: calc(100vh - 250px); 
+}
+
+section h2 i {
+    font-size: 80%;
+}
+
+section h5 i {
+    font-size: 100%;
 }
 
 section h2, section h5 {
@@ -40,32 +65,10 @@ section form {
     height: 35px;
 }
 
-/*
-.carousel-caption {
-}
-*/
-
 .alert-success {
     background-color: rgb(29, 123, 50, 0.5);
 }
 
-/* Header - Navbar */
-/* Overrides */
-
-.text-success:hover {
-    color: rgb(29, 123, 50);
-}
-
-.navbar-toggler {
-    border: 1px solid;    
-    border-color: #28a745!important;
-}
-
-.navbar-toggler:hover {  
-    border-color: #1d7b32!important;
-}
-
-/* ----------Header - Navbar - Override */ 
 
 /* ----------Footer */
 
@@ -98,7 +101,7 @@ footer p:hover {
 }
 
 
-/* ----------Section Page - Home */
+/* ----------Section Pages */
 
 .attention {
     max-width: 70%;
@@ -109,10 +112,5 @@ footer p:hover {
     background-color: rgba(41, 168, 71, 0.5);
 }
 
-/* ----------Section Page - The Network, Activities */
+/* ----------XXX */
 
-/* ----------Section Page - The Network, Gallery */
-
-/* ----------Section Page - The Network, Partners */
-
-/* ----------Section Page - Contact - Form */
