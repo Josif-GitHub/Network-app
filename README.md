@@ -53,7 +53,7 @@ Image Mockup
 <!-- My own markdown -->
 - __Home__
 
-  - The Home page will provide the user with supporting content to see the latest and most relevant new or information that the network of Lyftet i Lövgärdet focuses on spreading to the community. 
+  - The Home page will provide the user with supporting content to see the latest and most relevant news or information that the network of Lyftet i Lövgärdet focuses on spreading to the community at the moment. 
   - This section is valuable to the user as they will be able to easily receive relevant information without searching for it. 
 
 <!-- My own markdown / End -->
@@ -97,7 +97,7 @@ Image Mockup
 <!-- My own markdown -->
 - __The Contact Page__
 
-  - This page will allow the user to get signed up to Lyftet i Lövgärdet to start their participation with the community and / or at least joining the activities. The user will be able to specify if they would like to take part in participation of the netork or only in the activities offered. The user will be asked to submit their personal information. 
+  - This page will allow the user to get signed up to Lyftet i Lövgärdet to start their participation with the community and / or at least joining the activities. The user will be able to specify if they would like to take part in participation of the network or only in the activities offered. The user will be asked to submit their personal information. 
   - This section is valuable to the user as they will be able to easily take contact with the network for future collaboration. 
 
 <!-- My own markdown / End -->
@@ -108,7 +108,7 @@ Image Mockup
 
 
 <!-- Edit -->
-For some/all of your features, you may choose to reference the specific project files that implement them.
+For some / all of your features, you may choose to reference the specific project files that implement them.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 <!-- End Edit -->
@@ -173,7 +173,7 @@ The live link can be found here - https://link
 
 - The template text for the README markdown was taken from the Code Institute Love Running tutorial. From that input, I then edited the content so it suits my Milestone Project 1 context to ensure the high quality of the README markdown result. 
 [Code-Institute-Solutions / readme-template](https://github.com/Code-Institute-Solutions/readme-template/edit/master/README.md)
-- Bootstrap 4.1.3 is used for several pages. In this code there is editing and overriding to get my own touch on the web development. Among the content there are: 
+- Bootstrap 4.1.3 is used for several pages. In this code there is editing and overriding to get my own touch on the web development. Among the original code-content is (before modifying it): 
   - [Layout](https://getbootstrap.com/docs/4.1/layout/overview/)
   - [Alerts](https://getbootstrap.com/docs/4.1/components/alerts/)
   - [Buttons](https://getbootstrap.com/docs/4.1/components/buttons/)
@@ -199,6 +199,12 @@ The live link can be found here - https://link
 <!-- My own markdown -->
 ### Media
 
+- In these links you will find the source path to where I got the images included in this web application.
+  -
+  -
+  -
+  -
+   
 - The photos used on the Home,  and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
 
