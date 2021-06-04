@@ -6,7 +6,16 @@
     border:0;
  }
 
-/* ----------Common between different pages */
+/* ----------General pages */
+
+section {
+    min-height: calc(100vh - 250px); 
+}
+
+section form {
+    width: 70%;
+    margin: auto;
+}
 
 /* Header - Navbar */
 /* Overrides */
