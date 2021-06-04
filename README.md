@@ -51,10 +51,43 @@ Image Mockup
 <!-- End Edit -->
 
 <!-- My own markdown -->
+- __Home__
+
+  - The Home page will provide the user with supporting content to see the latest and most relevant new or information that the network of Lyftet i Lövgärdet focuses on spreading to the community. 
+  - This section is valuable to the user as they will be able to easily receive relevant information without searching for it. 
+
+<!-- My own markdown / End -->
+<!-- Edit -->
+![Gallery](https://link) <!-- Image of the Gallery -->
+<!-- End Edit -->
+
+<!-- My own markdown -->
+- __Activities / Events__
+
+  - The Activities / Events page will provide the user with supporting cards to see what the outcome of Lyftet i Lövgärdet's activities look like with the addition of short descriptions. 
+  - This section is valuable to the user as they will be able to easily identify the types of events the network puts together. 
+
+<!-- My own markdown / End -->
+<!-- Edit -->
+![Gallery](https://link) <!-- Image of the Gallery -->
+<!-- End Edit -->
+
+<!-- My own markdown -->
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the outcome of Lyftet i Lövgärdet's activities look like. 
+  - The Gallery page will provide the user with supporting images to see what the outcome of Lyftet i Lövgärdet's activities look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the network puts together. 
+
+<!-- My own markdown / End -->
+<!-- Edit -->
+![Gallery](https://link) <!-- Image of the Gallery -->
+<!-- End Edit -->
+
+<!-- My own markdown -->
+- __Partners__
+
+  - The Partners page will provide the user with supporting brands of the members of the network to have an understanding of who Lyftet i Lövgärdet consists of. 
+  - This section is valuable to the user as they will be able to easily identify the members of the network. 
 
 <!-- My own markdown / End -->
 <!-- Edit -->
@@ -89,6 +122,7 @@ In addition, you may also use this section to discuss plans for additional featu
 - Activities / Gallery page. Function for participants to upload their own pictures with comments on activities they have participated in.
 - Partners page. Function for the administrator of the network to upload images with logos on existing organizations or new ones that have joined the network.
 - Contact page. Increase the number of types of inputs in registration forms depending on the information requested as time goes on.
+- Add an About page to the website to give background information about the network and its goals.
 - Add feedback forms where users of the application can make requests on how this communication channel can be improved, what is good, what should be fixed, what should be removed and what is missing to increase the quality of UX / UI.
 <!-- My own markdown / End -->
 
@@ -164,6 +198,9 @@ The live link can be found here - https://link
 
 <!-- My own markdown -->
 ### Media
+
+- The photos used on the Home,  and sign up page are from This Open Source site
+- The images used for the gallery page were taken from this other open source site
 
 
 <!-- My own markdown / End -->
