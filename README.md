@@ -19,9 +19,10 @@ Image Mockup
 
 - __Navigation Bar__
 
-- Featured on all five pages, the full responsive navigation bar includes links to the Logo (Home), Home page, The Network and the sub-pages (Activities, Gallery, Partners) and Sign Up page and is identical in each page to allow for easy navigation.
+- Featured on all five pages, the full responsive navigation bar includes links to the Logo (Home), Home page, The Network and the sub-pages (Activities / Events, Gallery, Partners), Contact page and is consistent in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 <!-- My own markdown / End -->
+
 <!-- Edit -->
 ![Nav Bar](https://link) <!-- Image of the Navbar -->
 <!-- End Edit -->
@@ -38,17 +39,11 @@ Image Mockup
 ![Section 1](https://link) <!-- Image of the Section 1 -->
 <!-- End Edit -->
 
-- __Section 2 image__
-
-<!-- Edit -->
-![Section 2](https://link) <!-- Image of the Section 2 -->
-<!-- End Edit -->
-
 <!-- My own markdown -->
 - __The Footer__ 
 
 - The footer section includes links to the relevant social media sites for Lyftet i Lövgärdet. The links will open to a new tab to allow easy navigation for the user. 
-- The footer is valuable to the user as it encourages them to keep connected via social media.
+- The footer is valuable to the user as it encourages them to keep connected with the network through social media.
 
 <!-- My own markdown / End -->
 <!-- Edit -->
@@ -70,11 +65,14 @@ Image Mockup
 - __The Contact Page__
 
   - This page will allow the user to get signed up to Lyftet i Lövgärdet to start their participation with the community and / or at least joining the activities. The user will be able to specify if they would like to take part in participation of the netork or only in the activities offered. The user will be asked to submit their personal information. 
+  - This section is valuable to the user as they will be able to easily take contact with the network for future collaboration. 
 
 <!-- My own markdown / End -->
 <!-- Edit -->
 ![Contact](https://link) <!-- Image of the Contact -->
 <!-- End Edit -->
+
+
 
 <!-- Edit -->
 For some/all of your features, you may choose to reference the specific project files that implement them.
@@ -85,10 +83,11 @@ In addition, you may also use this section to discuss plans for additional featu
 <!-- My own markdown -->
 ### Features Left to Implement
 
+- All pages. Sign In feature for administrator to edit the content on the website.
 - Home page. Ability to add and remove what is displayed in this feed by the network administrator.
 - Activities page. Form for feedback on activities that already exist and form for new suggestions for activities that are requested.
 - Activities / Gallery page. Function for participants to upload their own pictures with comments on activities they have participated in.
-- Partners page. Function for organizations or administrator of the network to upload their own images with logos on organizations that are already with and / or new ones that have been added, so that they can become independent from a developer who does it for them.
+- Partners page. Function for the administrator of the network to upload images with logos on existing organizations or new ones that have joined the network.
 - Contact page. Increase the number of types of inputs in registration forms depending on the information requested as time goes on.
 - Add feedback forms where users of the application can make requests on how this communication channel can be improved, what is good, what should be fixed, what should be removed and what is missing to increase the quality of UX / UI.
 <!-- My own markdown / End -->
