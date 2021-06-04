@@ -17,11 +17,31 @@ section form {
     margin: auto;
 }
 
+.carousel-inner {
+    width: 60%;
+    height: 80%;
+    margin: auto;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    width: 35px;
+    height: 35px;
+}
+
+/*
+.carousel-caption {
+}
+*/
+
+.alert-success {
+    background-color: rgb(29, 123, 50, 0.5);
+}
+
 /* Header - Navbar */
 /* Overrides */
 
 .text-success:hover {
-    color: #1d7b32;
+    color: rgb(29, 123, 50);
 }
 
 .navbar-toggler {
