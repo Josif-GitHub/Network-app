@@ -42,7 +42,8 @@ section h2, section h5 {
 }
 
 section h2 {
-    padding-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 section h5 {
