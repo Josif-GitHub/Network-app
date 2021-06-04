@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+* { 
+    margin:0; 
+    padding:0;
+    border:0;
+ }
+
+/* ----------Common between different pages */
+
+/* Header - Navbar */
+/* Overrides */
+
+.text-success:hover {
+    color: #1d7b32;
+}
+
+.navbar-toggler {
+    border: 1px solid;    
+    border-color: #28a745!important;
+}
+
+.navbar-toggler:hover {  
+    border-color: #1d7b32!important;
+}
+
+/* ----------Header - Navbar - Override */ 
+
+/* ----------Footer */
+
+footer {
+    margin-bottom: 0;
+}
+
+footer i {
+    color: #28a745; 
+    font-size: 3rem;
+}
+
+footer i:hover {
+    color: #1d7b32;
+}
+footer p {
+    color: #28a745;
+    font-size: small;
+    text-align: center;
+}
+
+footer p:hover {
+    color: #1d7b32;
+}
+
+.social {
+    color: #28a745;
+    text-align: center;
+    padding: 20px;
+}
+
+
+/* ----------Section Page - Home */
+
+/* ----------Section Page - The Network, Activities */
+
+/* ----------Section Page - The Network, Gallery */
+
+/* ----------Section Page - The Network, Partners */
+
+/* ----------Section Page - Contact - Form */
