@@ -4,28 +4,28 @@ Lyftet i Lövgärdet is a network of several organizations, associations and civ
 
 The aim of this network "Lyftet i Lövgärdet" is to remove this suburb from the polices list of "Exposed Suburbs" in the country through spreding information to the community and facilitating some needs of the inhabitants through diffrent activities and events. 
 
+<center><img style="width: 300px;" src="../Network-app/assets/static/img/lil-logo.png" alt="Logo Lovgardet"></center>
+
 Among these are tutoring / homework help for children in school, so that more people have good opportunities for further education, enable associations to use municipal premises for sports and cultural activities, but also to spread necessary knowledge to residents about for example the Corona pandemic and the Covid-19 virus, etc.
 
 The audience of the website will be targeted towards inhabitants who lives in the suburb and who are looking for a way to socialise and keep themselves involved and / or informed about. Lyftet i Lövgärdet will be useful for inhabitants to see exactly when and where they should be to organize / join the activities. It will also be useful for facilitating communication between different associations that want to achieve common goals.
 
-<center><img style="width: 300px;" src="../Network-app/assets/static/img/lil-logo.png" alt="Logo Lovgardet"></center>
 
 <!--
 Image Mockup
-![alt](https://link)
+![Lyftet i Lövgärdet](https://8000-purple-dog-zgj6vt5o.ws-eu08.gitpod.io/index.html)
 -->
+<center><img style="width: 100%;" src="../Network-app/assets/static/img/responsice-mockup_network-app.png" alt="Lyftet i Lovgardet"></center>
 
 ### Existing Features
 
 - __Navigation Bar__
 
-- Featured on all five pages, the full responsive navigation bar includes links to the Logo (Home), Home page, The Network and the sub-pages (Activities / Events, Gallery, Partners), Contact page and is consistent in each page to allow for easy navigation.
+- Featured on all five pages, the full responsive navigation bar includes links to the Logo (Home), Home page, The Network and the sub-pages (Activities / Events, Gallery, Partners), Contact page and is consistent in each page to allow for easy navigation. It also contains a search button in the navbar.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 <!-- My own markdown / End -->
+<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-navbar.PNG" alt="Lyftet i Lovgardet"></center>
 
-<!-- Edit -->
-![Nav Bar](https://link) <!-- Image of the Navbar -->
-<!-- End Edit -->
 
 - __The landing page image__
 
