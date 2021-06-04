@@ -189,10 +189,12 @@ The live link can be found here - https://link
   - ![Popovers](https://getbootstrap.com/docs/4.1/components/popovers/)
   - ![Tooltips](https://getbootstrap.com/docs/4.1/components/tooltips/)
   - ![Shadows](https://getbootstrap.com/docs/4.1/utilities/shadows/)
-
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 -->
+<!--
+- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+-->
+
+- The icons in the nav and the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 <!-- My own markdown / End -->
 
