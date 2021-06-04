@@ -12,6 +12,18 @@ section {
     min-height: calc(100vh - 250px); 
 }
 
+section h2, section h5 {
+    text-align: center;
+}
+
+section h2 {
+    padding-top: 10px;
+}
+
+section h5 {
+    padding-bottom: 10px;
+}
+
 section form {
     width: 70%;
     margin: auto;
@@ -87,6 +99,15 @@ footer p:hover {
 
 
 /* ----------Section Page - Home */
+
+.attention {
+    max-width: 70%;
+    margin: 20px auto;
+    padding: 10px 20px;
+    border: 1px solid #28a745; 
+    border-radius: .25rem;
+    background-color: rgba(41, 168, 71, 0.5);
+}
 
 /* ----------Section Page - The Network, Activities */
 
