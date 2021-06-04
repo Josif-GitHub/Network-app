@@ -139,6 +139,23 @@ The live link can be found here - https://link
 
 - The template text for the README markdown was taken from the Code Institute Love Running tutorial. From that input, I then edited the content so it suits my Milestone Project 1 context to ensure the high quality of the README markdown result. 
 [Code-Institute-Solutions / readme-template](https://github.com/Code-Institute-Solutions/readme-template/edit/master/README.md)
+- Bootstrap 4.1.3 is used for several pages. In this code there is editing and overriding to get my own touch on the web development. Among the content there are: 
+  - ![Layout](https://getbootstrap.com/docs/4.1/layout/overview/)
+  - ![Alerts](https://getbootstrap.com/docs/4.1/components/alerts/)
+  - ![Buttons](https://getbootstrap.com/docs/4.1/components/buttons/)
+  - ![Cards](https://getbootstrap.com/docs/4.1/components/card/)
+  - ![Carousel](https://getbootstrap.com/docs/4.1/components/carousel/)
+  - ![Dropdowns](https://getbootstrap.com/docs/4.1/components/dropdowns/)
+  - ![Forms](https://getbootstrap.com/docs/4.1/components/forms/)
+  - ![Navbar](https://getbootstrap.com/docs/4.1/components/navbar/)
+  - ![Colors](https://getbootstrap.com/docs/4.1/utilities/colors/)
+  - ![Screenreaders](https://getbootstrap.com/docs/4.1/utilities/screenreaders/)
+<!--
+  - ![Modal](https://getbootstrap.com/docs/4.1/components/modal/)
+  - ![Popovers](https://getbootstrap.com/docs/4.1/components/popovers/)
+  - ![Tooltips](https://getbootstrap.com/docs/4.1/components/tooltips/)
+  - ![Shadows](https://getbootstrap.com/docs/4.1/utilities/shadows/)
+-->
 
 <!-- My own markdown / End -->
 
