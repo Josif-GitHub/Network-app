@@ -4,13 +4,13 @@ Lyftet i Lövgärdet is a network of several organizations, associations and civ
 
 The aim of this network "Lyftet i Lövgärdet" is to remove this suburb from the polices list of "Exposed Suburbs" in the country through spreding information to the community and facilitating some needs of the inhabitants through diffrent activities and events. 
 
-<center><img style="width: 300px;" src="../Network-app/assets/static/img/lil-logo.png" alt="Logo Lovgardet"></center>
+<center><img style="width: 300px;" src="./Network-app/assets/static/img/lil-logo.png" alt="Logo Lovgardet"></center>
 
 Among these are tutoring / homework help for children in school, so that more people have good opportunities for further education, enable associations to use municipal premises for sports and cultural activities, but also to spread necessary knowledge to residents about for example the Corona pandemic and the Covid-19 virus, etc.
 
 The audience of the website will be targeted towards inhabitants who lives in the suburb and who are looking for a way to socialise and keep themselves involved and / or informed about the area. Lyftet i Lövgärdet will be useful for inhabitants to see exactly when and where they should be to organize / join the activities. It will also be useful for facilitating communication between different associations that want to achieve common goals.
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/responsice-mockup_network-app.png" alt="Lyftet i Lovgardet"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/responsice-mockup_network-app.png" alt="Lyftet i Lovgardet"></center>
 
 ## Features 
 
@@ -21,7 +21,7 @@ The audience of the website will be targeted towards inhabitants who lives in th
   - Featured on all five pages, the full responsive navigation bar includes links to the Logo (Home), Home page, The Network and the sub-pages (Activities / Events, Gallery, Partners), Contact page and is consistent in each page to allow for easy navigation. It also contains a search button in the navbar.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-navbar.PNG" alt="Navbar"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/lil-navbar.PNG" alt="Navbar"></center>
 
 - __The home page headings__
 
@@ -31,55 +31,55 @@ The audience of the website will be targeted towards inhabitants who lives in th
 
   - This feature introduces the user to Lyftet i Lövgärdet and the activities that are coming up with an eye catching animation to grab their attention.
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/the_landing_page_carousel.png" alt="Carousel Home"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/the_landing_page_carousel.png" alt="Carousel Home"></center>
 
 - __The attention window__
 
   - This feature encourages the user with an eye catching CSS styling to grab their attention, with the intention of recruiting more members to the network. This feature is recurring on several pages, but with diffrent text based on the intended audience for that page.
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/the_attention_window.png" alt="Carousel Home"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/the_attention_window.png" alt="Carousel Home"></center>
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Lyftet i Lövgärdet. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected with the network through social media.
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-footer.png" alt="Footer"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/lil-footer.png" alt="Footer"></center>
 
 - __Home Page__
 
   - The Home page will provide the user with supporting content to see the latest and most relevant news or information that the network of Lyftet i Lövgärdet focuses on spreading to the community at the moment. 
   - This section is valuable to the user as they will be able to easily receive relevant information without searching for it. 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-home-page.png" alt="Home Page"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/lil-home-page.png" alt="Home Page"></center>
 
 - __Activities / Events Page__
 
   - The Activities / Events page will provide the user with supporting cards to see what the outcome of Lyftet i Lövgärdet's activities look like with the addition of short descriptions. 
   - This section is valuable to the user as they will be able to easily identify the types of events the network puts together. 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-activities-events-page.png" alt="Activities-Events Page"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/lil-activities-events-page.png" alt="Activities-Events Page"></center>
 
 - __Gallery Page__
 
   - The Gallery page will provide the user with supporting images to see what the outcome of Lyftet i Lövgärdet's activities look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the network puts together. 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-gallery-page.png" alt="Gallery Page"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/lil-gallery-page.png" alt="Gallery Page"></center>
 
 - __Partners Page__
 
   - The Partners page will provide the user with supporting brands of the members of the network to have an understanding of who Lyftet i Lövgärdet consists of. 
   - This section is valuable to the user as they will be able to easily identify the members of the network. Since I don't have access to their brands logo, I have random images instead to showcase the functionality.
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-partners-page.png" alt="Partners Page"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/lil-partners-page.png" alt="Partners Page"></center>
 
 - __The Contact Page__
 
   - This page will allow the user to get signed up to Lyftet i Lövgärdet to start their participation with the community and / or at least joining the activities. The user will be able to specify if they would like to take part in participation of the network or only in the activities offered. The user will be asked to submit their personal information and to read and confirm/agree upon the terms & conditions of the network, which will be presented with a modal. 
   - This section is valuable to the user as they will be able to easily take contact with the network for future collaboration. 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-contact-page.png" alt="The Contact Page"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/lil-contact-page.png" alt="The Contact Page"></center>
 
 ### Features Left to Implement
 
@@ -149,7 +149,7 @@ The audience of the website will be targeted towards inhabitants who lives in th
 
 The live link can be found here - https://josif-github.github.io/Network-app/ 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-deployment-github-pages.png" alt="Deployment GitHub Pages"></center>
+<center><img style="width: 100%;" src="./Network-app/assets/static/img/lil-deployment-github-pages.png" alt="Deployment GitHub Pages"></center>
 
 
 ## Credits 
