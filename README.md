@@ -106,7 +106,6 @@ The audience of the website will be targeted towards inhabitants who lives in th
 <!-- My own markdown -->
 ### Validator Testing 
 
-
 <!-- Edit -->
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
@@ -144,7 +143,7 @@ The live link can be found here - https://link
 <!-- End Edit -->
 
 ## Credits 
-<!-- My own markdown -->
+
 ### Content 
 
 - The template text for the README markdown was taken from the Code Institute Love Running tutorial. From that input, I then edited the content so it suits my Milestone Project 1 context to ensure the high quality of the README markdown result. 
@@ -162,52 +161,26 @@ The live link can be found here - https://link
   - [Colors](https://getbootstrap.com/docs/4.1/utilities/colors/)
   - [Screenreaders](https://getbootstrap.com/docs/4.1/utilities/screenreaders/)
   - ![Modal](https://getbootstrap.com/docs/4.1/components/modal/)
-<!--
-  - ![Popovers](https://getbootstrap.com/docs/4.1/components/popovers/)
-  - ![Tooltips](https://getbootstrap.com/docs/4.1/components/tooltips/)
-  - ![Shadows](https://getbootstrap.com/docs/4.1/utilities/shadows/)
--->
-<!--
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
--->
-
 - The icons in the nav and the footer were taken from [Font Awesome](https://fontawesome.com/)
 
-<!-- My own markdown / End -->
-
-<!-- My own markdown -->
 ### Media
 
 - In these links you will find the source path to where I got the images included in this web application.
   - lil-logo.png was provided from a private source and uploaded from my harddrive.
   - The images that represent my web application is screenshots and saved to my harddrive, then uploaded to the img-directory.
-  - Images used in the carousel is taken from a website provided by C.I-Tutorial, in a <a> link under the video. 
-  - [Pexels](https://www.pexels.com/sv-se/)
-    - [camping-1.jpeg](https://images.pexels.com/photos/3768841/pexels-photo-3768841.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
-    - [camping-2.jpeg]()
-    - [crafts-1.jpeg]()
-    - [mushrooms-1.jpeg](https://images.pexels.com/photos/1249884/pexels-photo-1249884.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
-    - [mushrooms-2.jpeg](https://images.pexels.com/photos/74510/pexels-photo-74510.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
-    - [paint-1.jpeg](https://images.pexels.com/photos/159644/art-supplies-brushes-rulers-scissors-159644.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
-    - [paint-2.jpeg](https://images.pexels.com/photos/1153895/pexels-photo-1153895.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
-    - [pearls-1.jpeg]()
-    - [sports-1.jpeg]()
-    - [sweets-1.jpeg]()
-    - [sweets-2.jpeg]()
-    - [sweets-3.jpeg]()
-    - [trees-1.jpeg]()
-    - [trees-2.jpeg]()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
-- The photos used on the Home,  and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+  - Images used in the carousel is taken from a website provided by C.I-Tutorial, in a <a> link under the video, see list below. 
 
-
-<!-- My own markdown / End -->
+    - The images used for the carousel on the home-/gallery-/partners page were taken from these open sources sites:
+    - [Pexels](https://www.pexels.com/sv-se/)
+    - [Unsplash](https://unsplash.com/)
+    - [StockVault](https://www.stockvault.net/)
+    - [Pixabay](https://pixabay.com/)
+    - [PicJumbo](https://picjumbo.com/)
+    - [FreeImages](https://www.freeimages.com/se)
+    - [PikWizard](https://pikwizard.com/)
+    - [Stocksnap](https://stocksnap.io/)
+    - [RawPixel](https://www.rawpixel.com/?sort=shuffle&page=1&feed=creative-feed)
 
 <!-- My own markdown -->
 ## Other General Project Advice
