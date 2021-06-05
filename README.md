@@ -97,7 +97,7 @@ The audience of the website will be targeted towards inhabitants who lives in th
 - I have tested the functionality of the web application on three browsers.
   - Google Chrome, Mozilla Firefox and Microsoft Edge.
 - I have included elements of action and reaction for:
-  - Anchor links, buttons, navbar(dropdowns), search, carousel(images/control/indicators), modal, radio-button, checkbox, text fields for comments in form, font:hover (text, icons, and more), I have tested that the required fields in the form reacts visually when trying to submit and empty and they complain as expected, responsive design when width is altered. 
+  - Anchor links, buttons, navbar(dropdowns), search, carousel(images/control/indicators), modal, radio-button, checkbox, text fields for comments in form, font:hover (text, icons, and more), I have tested that the required fields in the form reacts visually when trying to submit and it's empty and they complain as expected, responsive design when width is altered. 
   - I have tested their functionality and I have reached the conclusion that everything works fine, according to expectations. 
   - I have tested all navbar links in various screen sizes and additional features within each page also in various screen sizes. 
 - It looks really good on various screen sizes and feels good as well. I have not reacted on any differences between various screens, it feels normal.
@@ -106,7 +106,7 @@ The audience of the website will be targeted towards inhabitants who lives in th
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) expect som minor things on contact.html, see below.
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) except minor things on contact.html, see below.
 
   - Files tested:
     - template.html
@@ -140,13 +140,7 @@ The audience of the website will be targeted towards inhabitants who lives in th
 - validator testing, contact.html contain bugs according to validator, but I don't understand the issue in practice, until I have deeper understanding I will leave it as it is, since it functions good overall.
 - The rest of the files are looking good according to validator testing. 
 
-<!-- My own markdown -->
 ## Deployment
-
-
-<!-- My own markdown / End -->
-<!-- Edit -->
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
@@ -174,9 +168,10 @@ The live link can be found here - https://link
   - [Navbar](https://getbootstrap.com/docs/4.1/components/navbar/)
   - [Colors](https://getbootstrap.com/docs/4.1/utilities/colors/)
   - [Screenreaders](https://getbootstrap.com/docs/4.1/utilities/screenreaders/)
-  - ![Modal](https://getbootstrap.com/docs/4.1/components/modal/)
+  - [Modal](https://getbootstrap.com/docs/4.1/components/modal/)
+
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the nav and the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the HTML were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
