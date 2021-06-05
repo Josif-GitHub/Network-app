@@ -172,17 +172,20 @@ The live link can be found here - https://josif-github.github.io/Network-app/
   - [Screenreaders](https://getbootstrap.com/docs/4.1/utilities/screenreaders/)
   - [Modal](https://getbootstrap.com/docs/4.1/components/modal/)
 
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- Instructions on how to implement form validation on the Sign Up page was taken from provided by Code Institute: 
+  - [HTML validator on the W3C website and pasting in the HTML code](https://youtu.be/BqtqUiKNWxo)
+  - [CSS validator on the W3C website](https://youtu.be/P_JYCYvDFSY)
+
 - The icons in the HTML were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
 - In these links you will find the source path to where I got the images included in this web application.
   - lil-logo.png was provided from a private source and uploaded from my harddrive.
-  - The images that represent my web application is screenshots and saved to my harddrive, then uploaded to the img-directory.
-  - Images used in the carousel is taken from a website provided by C.I-Tutorial, in a <a> link under the video, see list below. 
-
-    - The images used for the carousel on the home-/gallery-/partners page were taken from these open sources sites:
+  - The images that represent my web application is screenshots and saved to my harddrive, then uploaded to the img-directory in the repository.
+  - Images used in the carousel/cards from Bootstrap is taken from a website provided by C.I-Tutorial, in a <a> link under the video, see list below. These images has bin saved and uploaded to the directory in the repository.
+  
+    - The images used for the carousel/cards on the home-/gallery-/partners page were taken from these open sources sites:
     - [Pexels](https://www.pexels.com/sv-se/)
     - [Unsplash](https://unsplash.com/)
     - [StockVault](https://www.stockvault.net/)
