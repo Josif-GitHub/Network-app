@@ -103,10 +103,8 @@ The audience of the website will be targeted towards inhabitants who lives in th
 - It looks really good on various screen sizes and feels good as well. I have not reacted on any differences between various screens, it feels normal.
 - The burgers menu moves to a new row when the width becomes too narrow. Another note that I discovered at the end is that with a narrower screen size, a nested container moves to the side and it looks strange, but that is because the contents of it are wider than the parent's container. This phenomenon can be found on the page for activities / events under the network. The clickable link protrudes on the right side when the parent container becomes too narrow. 
 
-<!-- My own markdown -->
 ### Validator Testing 
 
-<!-- Edit -->
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 
@@ -117,10 +115,12 @@ The audience of the website will be targeted towards inhabitants who lives in th
     - activities-events.html
     - gallery.html
     - partners.html
-    - contact.html
 
-    - 
+      - Files above are OK according to validator testing.
 
+
+    - contact.html 
+      - Contains minor bugs that don't affect the product negativly. I have trobleshooted and tested alternative methods, but without results. So this needs to be delt with later on. 
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
@@ -134,26 +134,17 @@ The audience of the website will be targeted towards inhabitants who lives in th
         </a> 
       </p>
 
-<!-- End Edit -->
 
-
-<!-- My own markdown / End -->
-
-<!-- My own markdown -->
 ### Unfixed Bugs
 
-<!--
-When I compare invested time and energy that it will cost to solve these bugs, ie the cost of action and then compare the result with what value it adds in results, I conclude that it is not worth investing in this case. In addition to prioritizing UX / UI for the user, it is at least as important for the provider that you get back enough or more than what you have invested for it to be profitable. Therefore, I have decided to leave these bugs unresolved.
--->
-<!-- My own markdown / End -->
+- validator testing, contact.html contain bugs according to validator, but I don't understand the issue in practice, until I have deeper understanding I will leave it as it is, since it functions good overall.
+- The rest of the files are looking good according to validator testing. 
 
 <!-- My own markdown -->
 ## Deployment
 
 
 <!-- My own markdown / End -->
-
-
 <!-- Edit -->
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
@@ -204,10 +195,4 @@ The live link can be found here - https://link
     - [PikWizard](https://pikwizard.com/)
     - [Stocksnap](https://stocksnap.io/)
     - [RawPixel](https://www.rawpixel.com/?sort=shuffle&page=1&feed=creative-feed)
-
-<!-- My own markdown -->
-## Other General Project Advice
-
-
-<!-- My own markdown / End -->
 
