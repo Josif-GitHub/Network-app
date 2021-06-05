@@ -81,13 +81,6 @@ The audience of the website will be targeted towards inhabitants who lives in th
 
 <center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-contact-page.png" alt="The Contact Page"></center>
 
-<!-- Edit -->
-For some / all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-<!-- End Edit -->
-
-<!-- My own markdown -->
 ### Features Left to Implement
 
 - All pages. Sign In feature for administrator to edit the content on the website.
@@ -98,13 +91,17 @@ In addition, you may also use this section to discuss plans for additional featu
 - Contact page. Increase the number of types of inputs in registration forms depending on the information requested as time goes on.
 - Add an About page to the website to give background information about the network and its goals.
 - Add feedback forms where users of the application can make requests on how this communication channel can be improved, what is good, what should be fixed, what should be removed and what is missing to increase the quality of UX / UI.
-<!-- My own markdown / End -->
 
-<!-- My own markdown -->
 ## Testing 
 
-
-<!-- My own markdown / End -->
+- I have tested the functionality of the web application on three browsers.
+  - Google Chrome, Mozilla Firefox and Microsoft Edge.
+- I have included elements of action and reaction for:
+  - Anchor links, buttons, navbar(dropdowns), search, carousel(images/control/indicators), modal, radio-button, checkbox, text fields for comments in form, font:hover (text, icons, and more), responsive design when width is altered. 
+  - I have tested their functionality and I have reached the conclusion that everything works fine, according to expectations. 
+  - I have tested all navbar links in various screen sizes and additional features within each page also in various screen sizes. 
+- It looks really good on various screen sizes and feels good as well. I have not reacted on any differences between various screens, it feels normal.
+- The burgers menu moves to a new row when the width becomes too narrow. Another note that I discovered at the end is that with a narrower screen size, a nested container moves to the side and it looks strange, but that is because the contents of it are wider than the parent's container. This phenomenon can be found on the page for activities / events under the network. The clickable link protrudes on the right side when the parent container becomes too narrow. 
 
 <!-- My own markdown -->
 ### Validator Testing 
@@ -147,7 +144,8 @@ The live link can be found here - https://link
 
 - The template text for the README markdown was taken from the Code Institute Love Running tutorial. From that input, I then edited the content so it suits my Milestone Project 1 context to ensure the high quality of the README markdown result. 
 [Code-Institute-Solutions / readme-template](https://github.com/Code-Institute-Solutions/readme-template/edit/master/README.md)
-- Bootstrap 4.1.3 is used for several pages. In this code there is editing and overriding to get my own touch on the web development. Among the original code-content is (before modifying it): 
+- Bootstrap 4.1.3 is used for several pages. In this code there is editing and overriding to get my own touch and twist on the web development design. Among the original code-content is (before modifying it): 
+  - [BootstrapCDN (CSS/JS)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
   - [Layout](https://getbootstrap.com/docs/4.1/layout/overview/)
   - [Alerts](https://getbootstrap.com/docs/4.1/components/alerts/)
   - [Buttons](https://getbootstrap.com/docs/4.1/components/buttons/)
