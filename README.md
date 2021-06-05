@@ -21,7 +21,7 @@ The audience of the website will be targeted towards inhabitants who lives in th
   - Featured on all five pages, the full responsive navigation bar includes links to the Logo (Home), Home page, The Network and the sub-pages (Activities / Events, Gallery, Partners), Contact page and is consistent in each page to allow for easy navigation. It also contains a search button in the navbar.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-navbar.PNG" alt="Lyftet i Lovgardet"></center>
+<center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-navbar.PNG" alt="Navbar"></center>
 
 - __The home page headings__
 
@@ -107,11 +107,22 @@ The audience of the website will be targeted towards inhabitants who lives in th
 ### Validator Testing 
 
 
+<!-- Edit -->
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+<!-- End Edit -->
+
+
 <!-- My own markdown / End -->
 
 <!-- My own markdown -->
 ### Unfixed Bugs
 
+<!--
+When I compare invested time and energy that it will cost to solve these bugs, ie the cost of action and then compare the result with what value it adds in results, I conclude that it is not worth investing in this case. In addition to prioritizing UX / UI for the user, it is at least as important for the provider that you get back enough or more than what you have invested for it to be profitable. Therefore, I have decided to leave these bugs unresolved.
+-->
 <!-- My own markdown / End -->
 
 <!-- My own markdown -->
@@ -132,13 +143,7 @@ This section should describe the process you went through to deploy the project 
 The live link can be found here - https://link 
 <!-- End Edit -->
 
-
-<!-- My own markdown -->
 ## Credits 
-
-
-<!-- My own markdown / End -->
-
 <!-- My own markdown -->
 ### Content 
 
@@ -174,11 +179,30 @@ The live link can be found here - https://link
 ### Media
 
 - In these links you will find the source path to where I got the images included in this web application.
-  -
-  -
-  -
-  -
-   
+  - lil-logo.png was provided from a private source and uploaded from my harddrive.
+  - The images that represent my web application is screenshots and saved to my harddrive, then uploaded to the img-directory.
+  - Images used in the carousel is taken from a website provided by C.I-Tutorial, in a <a> link under the video. 
+  - [Pexels](https://www.pexels.com/sv-se/)
+    - [camping-1.jpeg](https://images.pexels.com/photos/3768841/pexels-photo-3768841.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+    - [camping-2.jpeg]()
+    - [crafts-1.jpeg]()
+    - [mushrooms-1.jpeg](https://images.pexels.com/photos/1249884/pexels-photo-1249884.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+    - [mushrooms-2.jpeg](https://images.pexels.com/photos/74510/pexels-photo-74510.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+    - [paint-1.jpeg](https://images.pexels.com/photos/159644/art-supplies-brushes-rulers-scissors-159644.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+    - [paint-2.jpeg](https://images.pexels.com/photos/1153895/pexels-photo-1153895.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+    - [pearls-1.jpeg]()
+    - [sports-1.jpeg]()
+    - [sweets-1.jpeg]()
+    - [sweets-2.jpeg]()
+    - [sweets-3.jpeg]()
+    - [trees-1.jpeg]()
+    - [trees-2.jpeg]()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
 - The photos used on the Home,  and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
 
