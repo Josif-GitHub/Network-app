@@ -41,8 +41,8 @@ The audience of the website will be targeted towards inhabitants who lives in th
 
 - __The Footer__ 
 
-- The footer section includes links to the relevant social media sites for Lyftet i Lövgärdet. The links will open to a new tab to allow easy navigation for the user. 
-- The footer is valuable to the user as it encourages them to keep connected with the network through social media.
+  - The footer section includes links to the relevant social media sites for Lyftet i Lövgärdet. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected with the network through social media.
 
 <center><img style="width: 100%;" src="../Network-app/assets/static/img/lil-footer.png" alt="Footer"></center>
 
@@ -97,7 +97,7 @@ The audience of the website will be targeted towards inhabitants who lives in th
 - I have tested the functionality of the web application on three browsers.
   - Google Chrome, Mozilla Firefox and Microsoft Edge.
 - I have included elements of action and reaction for:
-  - Anchor links, buttons, navbar(dropdowns), search, carousel(images/control/indicators), modal, radio-button, checkbox, text fields for comments in form, font:hover (text, icons, and more), responsive design when width is altered. 
+  - Anchor links, buttons, navbar(dropdowns), search, carousel(images/control/indicators), modal, radio-button, checkbox, text fields for comments in form, font:hover (text, icons, and more), I have tested that the required fields in the form reacts visually when trying to submit and empty and they complain as expected, responsive design when width is altered. 
   - I have tested their functionality and I have reached the conclusion that everything works fine, according to expectations. 
   - I have tested all navbar links in various screen sizes and additional features within each page also in various screen sizes. 
 - It looks really good on various screen sizes and feels good as well. I have not reacted on any differences between various screens, it feels normal.
